@@ -1,1 +1,1 @@
-node add
+p str
